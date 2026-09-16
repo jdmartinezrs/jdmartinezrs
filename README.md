@@ -1,11 +1,25 @@
-
-		
-Mostrar imagen	Mostrar imagen	Mostrar imagen
-Mostrar imagen	Mostrar imagen	Mostrar imagen
-📊 Estadísticas de GitHub
-
-Mostrar imagen
-
-👾 Pac-Man se come mis contribuciones
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdmartinezrs/jdmartinezrs/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jdmartinezrs/jdmartinezrs/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jdmartinezrs/jdmartinezrs/output/pacman-contribution-graph.svg"> </picture>
-<p align="center"><i>Este perfil está en constante actualización, como mi código 😄</i></p>
+# ¡Hola! Soy jdmartinezrs 👋
+ 
+## 🛠️ Stack y herramientas
+ 
+| | | |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+ 
+---
+ 
+## 📊 Estadísticas de GitHub
+ 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdmartinezrs&theme=tokyonight&hide_border=true)
+ 
+---
+ 
+## 👾 Pac-Man se come mis contribuciones
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdmartinezrs/jdmartinezrs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jdmartinezrs/jdmartinezrs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jdmartinezrs/jdmartinezrs/output/pacman-contribution-graph.svg">
+</picture>
+---
